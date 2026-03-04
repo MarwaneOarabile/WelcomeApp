@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">WelcomeApp</string>
+    <string name="app_instrusctions">Please enter your Name to be greeted</string>
+    <string name="app_hint">Your First name here</string>
+    <string name="app_WelcomeMsg">Hello %1$s!, welcome to the welcome App. Press Clear to clear message and name</string>
+    <string name="txtForBtnClear">Clear</string>
+    <string name="txtForBtnSubmit">Submit</string>
+
 </resources>
